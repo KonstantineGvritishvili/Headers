@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    background: none;
+    border: none;
+    box-sizing: none;
+}
+
+button, input {
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+}
+
+
+.btns {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    position: absolute;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 30px;
+    justify-content: center;
+    left: 740px;
+    bottom: 40px;
+}
+.nav1 {
+    
+    box-shadow: 0px 0px 10px gray;
+    position: absolute;
+    top: 90px;
+    background-color: rgb(29, 29, 32);
+    width: 100%;
+    height: 100px;
+    
+}
+
+.nav {
+    font-size: 200%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+    color: white;
+    padding-top: 25px;
+}
+
+.btn {
+    color: white;
+}
+
+.btnm {
+    cursor: pointer;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 30px;
+    top: -22px;
+    position: absolute;
+    right: -490px;
+}
+
+#cont {
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0px 0px 15px rgb(4, 168, 168);
+    color: white;
+    border-radius: 20px;
+    background-color: aqua;
+    width: 90px;
+    height: 40px;
+}
+
+#cont:hover {
+    color: aqua;
+    background-color: white;
+    transition: 0.3s;
+    box-shadow: 0px 0px 15px white;
+}
+
+.btn:hover {
+    color: aqua;
+    transition: 0.3s;
+}
+
+
+/*second*/
+
+.btns2 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    position: absolute;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 30px;
+    justify-content: center;
+    left: 40px;
+    bottom: 40px;
+}
+.nav2 {
+    
+    box-shadow: 0px 0px 10px gray;
+    position: absolute;
+    top: 320px;
+    background-color: rgb(29, 29, 32);
+    width: 100%;
+    height: 100px;
+    
+}
+
+.nav-2 {
+    position: absolute;
+    font-size: 200%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 1320px;
+    color: white;
+    top: 25px;
+}
+
+.btn2 {
+    color: white;
+}
+
+.btnm2 {
+    cursor: pointer;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 30px;
+    top: -22px;
+    position: absolute;
+    right: -120px;
+}
+
+#cont2 {
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0px 0px 15px rgb(4, 168, 168);
+    color: white;
+    border-radius: 20px;
+    background-color: aqua;
+    width: 90px;
+    height: 40px;
+}
+
+#cont2:hover {
+    color: aqua;
+    background-color: white;
+    transition: 0.3s;
+    box-shadow: 0px 0px 15px white;
+}
+
+.btn2:hover {
+    color: aqua;
+    transition: 0.3s;
+}
+
+
+/*three*/
+
+.btns3 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    position: absolute;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 30px;
+    justify-content: center;
+    left: 1120px;
+    bottom: 40px;
+}
+.nav3 {
+    box-shadow: 0px 0px 10px gray;
+    position: absolute;
+    top: 550px;
+    background-color: rgb(29, 29, 32);
+    width: 100%;
+    height: 100px;
+    
+}
+
+.nav-3 {
+    font-size: 200%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+    color: white;
+    padding-top: 25px;
+}
+
+.btn3 {
+    color: white;
+}
+
+.btnm3 {
+    cursor: pointer;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 30px;
+    top: -22px;
+    position: absolute;
+    right: -120px;
+}
+
+#cont3 {
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0px 0px 15px rgb(4, 168, 168);
+    color: white;
+    border-radius: 20px;
+    background-color: aqua;
+    width: 90px;
+    height: 40px;
+}
+
+#cont3:hover {
+    color: aqua;
+    background-color: white;
+    transition: 0.3s;
+    box-shadow: 0px 0px 15px white;
+}
+
+.btn3:hover {
+    color: aqua;
+    transition: 0.3s;
+}
